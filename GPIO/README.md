@@ -11,3 +11,8 @@ Le but est de faire clignoter la LED à différentes vitesses en fonction du nom
 * La LED doit clignoter à une fréquence de 5Hz après une deuxième pression.
 * La LED doit s'éteindre après une troisième pression.
 * Le cycle de clignotement se poursuit de manière analogue pour les pressions suivantes.
+
+### Objectifs bonus
+
+* Ajouter un délai ou un effet de clignotement lors d'un changement de fréquence de clignotement.
+* Modifier le nombre d'appuis nécessaire pour changer la vitesse de clignotement.
